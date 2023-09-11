@@ -1,0 +1,26 @@
+Title,Value
+Trading range,1982-10-08 — 2023-09-08
+Backtesting range,1980-12-12 — 2023-09-08
+Symbol,NASDAQ:AAPL
+Timeframe,1 day
+Chart type,Candles
+Point Value,1
+Currency,USD
+Tick Size,0.0100
+Precision,Default
+Short MA Period,50
+Long MA Period,200
+Stop Loss (%),1
+Take Profit (%),3
+Initial capital,1000000 USD
+Order size,1 Contracts
+Pyramiding,1 orders
+Commission,0%
+Verify price for limit orders,0 ticks
+Slippage,0 ticks
+Margin for long positions,0%
+Margin for short positions,0%
+Recalculate After order is filled,Off
+Recalculate On every tick,Off
+Recalculate On bar close,Off
+Backtesting precision. Use bar magnifier,Off
